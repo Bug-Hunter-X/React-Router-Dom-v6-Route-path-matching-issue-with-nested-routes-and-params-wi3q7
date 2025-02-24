@@ -1,0 +1,1 @@
+This repository contains a demonstration of a bug in React Router Dom v6 related to path matching with nested routes and parameters. The bug occurs when trying to match a specific route with parameters nested within other routes. The provided solution demonstrates a workaround that correctly matches the intended route.
